@@ -1,0 +1,1 @@
+``` # Compiled output target/ *.class # IDE files .classpath .project .settings/ .idea/ *.iml # OS files .DS_Store Thumbs.db # Logs *.log # Config with secrets (if you have any) application.properties config.properties ``` 
